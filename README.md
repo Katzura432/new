@@ -1,1 +1,1 @@
-alert('new website');
+alert('new websites');
